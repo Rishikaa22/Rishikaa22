@@ -24,7 +24,7 @@
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <img align="right" alt="hi" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47s1bagyqipze2940fwcu8wi70hb3377i3w6q2vvz4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently a BTech CSE student at MIT, Greater Noida.
+- 🔭 I’m currently a BTech CSE student at MIT, Banglore.
 - 🌱 🌱 I’m currently focusing on **Artificial Intelligence** and **Machine Learning**..
 - 📚 I'm passionate about **AI, Machine Learning, Deep Learning, Data Science,** and **Generative AI**.
 - 💻 I have hands-on experience in **Python, NumPy, Pandas, Scikit-learn, and basic TensorFlow/PyTorch for building intelligent systems**
